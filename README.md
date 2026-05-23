@@ -35,3 +35,4 @@
 | [Offline Translator](https://github.com/DavidVentura/offline-translator) | GitHub | v0.6.1 |
 | [Termux](https://github.com/termux/termux-app) | GitHub | v0.118.3 |
 | [DAVx⁵](https://github.com/bitfireAT/davx5-ose) | GitHub | v4.5.12-ose |
+| [Jellyfin](https://f-droid.org/packages/org.jellyfin.mobile) | F-Droid | 2.6.4 |
