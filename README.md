@@ -42,3 +42,4 @@
 | [PeerTube](https://f-droid.org/packages/org.framasoft.peertube) | F-Droid | 2.1.4 |
 | [Home Assistant](https://github.com/home-assistant/android) | GitHub | 2026.4.4 |
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) | GitHub | 4.0.1 |
+| [Amaze Utilities](https://f-droid.org/packages/com.amaze.fileutilities) | F-Droid | 1.94 |
