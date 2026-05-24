@@ -36,3 +36,6 @@
 | [Termux](https://github.com/termux/termux-app) | GitHub | v0.118.3 |
 | [DAVx⁵](https://github.com/bitfireAT/davx5-ose) | GitHub | v4.5.12-ose |
 | [Jellyfin](https://f-droid.org/packages/org.jellyfin.mobile) | F-Droid | 2.6.4 |
+| [Tor Browser](https://guardianproject.info/fdroid/repo) | Guardian Project | 15.0.14 |
+| [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer) | F-Droid | 1.16.0 |
+
