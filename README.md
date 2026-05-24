@@ -40,3 +40,4 @@
 | [Audile](https://f-droid.org/packages/com.mrsep.musicrecognizer) | F-Droid | 1.16.0 |
 | [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp) | F-Droid | 1.35.5 |
 | [PeerTube](https://f-droid.org/packages/org.framasoft.peertube) | F-Droid | 2.1.4 |
+| [Home Assistant](https://github.com/home-assistant/android) | GitHub | 2026.4.4 |
