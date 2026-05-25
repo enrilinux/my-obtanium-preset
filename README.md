@@ -43,3 +43,4 @@
 | [Home Assistant](https://github.com/home-assistant/android) | GitHub | 2026.4.4 |
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) | GitHub | 4.0.1 |
 | [Amaze Utilities](https://f-droid.org/packages/com.amaze.fileutilities) | F-Droid | 1.94 |
+| [Inure](https://github.com/Hamza417/Inure) | GitHub | build107.0.2 |
