@@ -2,6 +2,7 @@
 
 | App | Source | Version |
 |-----|--------|---------|
+| [ObtainX](https://github.com/bikram-agarwal/ObtainX) | GitHub | v2.6.3 |
 | [FlorisBoard](https://github.com/florisboard/florisboard) | GitHub | v0.5.2 |
 | [Immich](https://github.com/immich-app/immich) | GitHub | v2.7.5 |
 | [Wa Enhancer](https://github.com/Dev4Mod/WaEnhancer) | GitHub | debug-ddf9ae6 |
