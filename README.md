@@ -45,3 +45,4 @@
 | [LibreTorrent](https://github.com/proninyaroslav/libretorrent) | GitHub | 4.0.1 |
 | [Amaze Utilities](https://f-droid.org/packages/com.amaze.fileutilities) | F-Droid | 1.94 |
 | [Inure](https://github.com/Hamza417/Inure) | GitHub | build107.0.2 |
+| [Neo Backup](https://f-droid.org/packages/com.machiav3lli.backup) | F-Droid | 8.3.18 |
